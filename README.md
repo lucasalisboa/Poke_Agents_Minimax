@@ -8,11 +8,11 @@ Repositório contendo a implementação do Trabalho de Conclusão de Curso (TCC)
 ## Instalação
 1. Verifique os requisitos
 2. Realize a clonagem no Pokemon Showdown
-ˋˋˋ 
+~~~ 
 git clone https://github.com/smogon/pokemon-showdown.git
 cd pokemon-showdown
 npm install
 cp config/config-example.js config/config.js
 node pokemon-showdown start --no-security
-ˋˋˋ 
+~~~ 
 3. sdsd
